@@ -1,0 +1,21 @@
+yoga_poses:
+  - name: "Cat-Cow Pose"
+    angles: "Head-neck-back transitions"
+    views: ["Side", "Front"]
+  - name: "Sphinx Pose"
+    angles: "Forearms aligned, back relaxed"
+    views: ["Side", "Top"]
+  - name: "Tree Pose"
+    angles: "Single-leg balance"
+    views: ["Front"]
+
+gym_modules:
+  - name: "Chair Squats"
+    angles: "Knee and back alignment"
+    views: ["Side", "Front"]
+  - name: "Dumbbell Deadlifts"
+    angles: "Neutral spine, hip movement"
+    views: ["Side"]
+  - name: "Bird Dog"
+    angles: "Spine alignment"
+    views: ["Side"]
