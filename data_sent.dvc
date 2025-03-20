@@ -1,0 +1,8 @@
+frozen: true
+deps:
+- path: data_sent
+  repo:
+    url: D:\SCHOOL WORK\3RD YEAR\FYP\dataset
+outs:
+- hash: md5
+  path: data_sent
